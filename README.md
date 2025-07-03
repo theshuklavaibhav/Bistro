@@ -17,13 +17,11 @@ Recreate the main “Bistro” food listing home screen from the Blinkit (former
 
 | Home Screen | Home Screen 2 |
 |-------------|---------------|
-| ![Home Screen](https://drive.google.com/file/d/13sFst9nHg41LZP5fxgNuElj62P1nHqYg/view) | ![Home Screen 2](https://drive.google.com/file/d/1IvIXDHnjZQD-fS3pRhqy2XV-NAN3t5KE/view) |
+| ![Home Screen](https://drive.google.com/uc?export=view&id=13sFst9nHg41LZP5fxgNuElj62P1nHqYg) | ![Home Screen 2](https://drive.google.com/uc?export=view&id=1IvIXDHnjZQD-fS3pRhqy2XV-NAN3t5KE) |
 
 | Lower Part 1 | 
-|--------------|-------------|
-| ![Lower Part 1](https://drive.google.com/file/d/1ePP6b_tpHgytKameTUpJuQ2kW7lto-Ce/view) |
-
----
+|--------------|
+| ![Lower Part 1](https://drive.google.com/uc?export=view&id=1ePP6b_tpHgytKameTUpJuQ2kW7lto-Ce) |
 
 ## 🔗 APK Download
 

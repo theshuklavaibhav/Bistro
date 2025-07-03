@@ -6,14 +6,6 @@ Hi! I'm **Vaibhav Shukla**. This repository contains my submission for the Flutt
 
 ---
 
-### 📝 Interview Recap
-
-- **Theory:** Successfully answered all Flutter theory questions.
-- **DSA:** Could not solve a live DSA array question but explained my approach honestly.
-- **Assignment:** Was asked to showcase my practical Flutter skills by building a UI screen. I chose the main home screen of the Bistro section from the Blinkit app.
-
----
-
 ## 🚀 Assignment Details
 
 **Objective:**  
@@ -25,11 +17,11 @@ Recreate the main “Bistro” food listing home screen from the Blinkit (former
 
 | Home Screen | Home Screen 2 |
 |-------------|---------------|
-| ![Home Screen](https://drive.google.com/uc?export=view&id=1ukUINkotOD8k1LUFm0tKsTgDr66ieUPo) | ![Home Screen 2](https://drive.google.com/uc?export=view&id=1h017igCZSRsJOGDY7-EsRAR-h56uXRuV) |
+| ![Home Screen](https://drive.google.com/file/d/13sFst9nHg41LZP5fxgNuElj62P1nHqYg/view) | ![Home Screen 2](https://drive.google.com/file/d/1IvIXDHnjZQD-fS3pRhqy2XV-NAN3t5KE/view) |
 
-| Lower Part 1 | Lower Part 2 |
+| Lower Part 1 | 
 |--------------|-------------|
-| ![Lower Part 1](https://drive.google.com/uc?export=view&id=1FvS7lmPM7oPPG6NQmzBrtVOxZDF91afR) | ![Lower Part 2](https://drive.google.com/uc?export=view&id=1K7aGTWsgCZUesxWtzEMduSTTHaBCmiTX) |
+| ![Lower Part 1](https://drive.google.com/file/d/1ePP6b_tpHgytKameTUpJuQ2kW7lto-Ce/view) |
 
 ---
 
@@ -37,7 +29,7 @@ Recreate the main “Bistro” food listing home screen from the Blinkit (former
 
 You can download and try the app directly:
 
-**[Download APK](https://drive.google.com/uc?export=download&id=1dfztOHt9FPtscyL-YTSWrqlWb5ul2-Bw)**
+**[Download APK](https://drive.google.com/file/d/1iAzMM8mVoDBhHw78fjXlV7dYDjhrxZLc/view?usp=sharing)**
 
 ---
 
@@ -135,7 +127,7 @@ I’m open to feedback and suggestions for improvement.
 
 ## 🧑‍💻 Contact
 
-- **Email:** vaibhavshukla.dev@gmail.com
+- **Email:** vaibhavshuklaofficial8586@gmail.com
 - **GitHub:** [@theshuklavaibhav](https://github.com/theshuklavaibhav)
 
 ---
